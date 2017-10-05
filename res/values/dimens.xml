@@ -458,4 +458,6 @@
     <dimen name="chartview_trapezoid_radius">5dp</dimen>
     <dimen name="chartview_trapezoid_margin_start">1dp</dimen>
     <dimen name="chartview_trapezoid_margin_bottom">2dp</dimen>
+
+    <dimen name="two_target_min_width">72dp</dimen>
 </resources>

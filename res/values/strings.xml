@@ -13763,6 +13763,7 @@
     <string name="bluetooth_connect_access_dialog_negative">Don\u2019t connect</string>
     <!-- Strings for Dialog connect button -->
     <string name="bluetooth_connect_access_dialog_positive">Connect</string>
+
     <!-- Title of selecting NR mode in developer options settings [CHAR LIMIT=NONE]-->
     <string name="prefer_5G_nr_mode_title">Prefer 5G NR Mode</string>
     <!-- Summary of selecting NR mode in developer options settings [CHAR LIMIT=NONE]-->
@@ -13773,4 +13774,8 @@
     <string name="nr_sa">SA</string>
     <string name="prefer_vonr_mode_title">Enable/Disable VoNR</string>
     <string name="prefer_vonr_mode_summary">Enable or disable VoNR</string>
+
+    <!-- Game Space -->
+    <string name="game_space_title">Game Space</string>
+    <string name="game_space_summary">Enhance your gaming experience</string>
 </resources>

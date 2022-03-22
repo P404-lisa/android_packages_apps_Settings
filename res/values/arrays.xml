@@ -1747,6 +1747,10 @@
         <item>com.google.android.GoogleCamera</item>
     </string-array>
 
+    <string-array name="allowlist_hide_entry_in_battery_usage">
+        <item>com.google.android.gms.persistent</item>
+    </string-array>
+
     <string-array name="allowlist_hide_summary_in_battery_usage" translatable="false">
     </string-array>
 

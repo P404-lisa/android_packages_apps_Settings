@@ -184,4 +184,11 @@
     <string name="reset_settings_title">Feature preferences</string>
     <string name="reset_settings_summary">Reset Project 404 feature preferences</string>
     <string name="keywords_settings_reset">reset</string>
+
+    <!-- Customization Category Title -->
+    <string name="customization_category_title">Customizations</string>
+    
+    <!-- 4G icon -->
+    <string name="show_fourg_icon_title">4G icon</string>
+    <string name="show_fourg_icon_summary">Show 4G icon instead of LTE</string>
 </resources>

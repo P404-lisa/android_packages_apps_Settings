@@ -47,7 +47,7 @@ class DisplaySizeData extends PreviewSizeData<Integer> {
             setValues(Collections.singletonList(densityDpi));
         } else {
             setDefaultValue(density.getDefaultDensity());
-            setInitialIndex(initialIndex);
+            setInitialIndex(2);
             setValues(Arrays.stream(density.getValues()).boxed().collect(Collectors.toList()));
         }
     }
